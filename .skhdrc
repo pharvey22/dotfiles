@@ -118,7 +118,7 @@ alt - t : open -a "iTerm"
 alt - f : open -a "Finder"
 alt - s : open -a "Safari"
 alt - n : open -a "notes"
-
+alt - m : open -a "mail"
 
 # change window focus within space
 alt - k : yabai -m window --focus south
